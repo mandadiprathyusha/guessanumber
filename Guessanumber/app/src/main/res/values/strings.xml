@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess a number</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter">Enter your name</string>
+    <string name="start">Start</string>
+    <string name="rules">\n\nRules:\n
+                        \n\n1: you will be given 5 chances\n
+                        \n\n2: you have to guess the number within 5 chances\n
+                        \n\n3: if you guess you will win otherwise lose</string>
+</resources>
